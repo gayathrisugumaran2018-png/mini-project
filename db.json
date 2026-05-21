@@ -1,0 +1,138 @@
+{
+  "users": [
+    {
+      "id": "nJr5ZeP5RvM",
+      "name": "Gayu",
+      "email": "gayu@gmail.com",
+      "password": "1234",
+      "avatar": "G",
+      "joinedDate": "2026-05-14"
+    },
+    {
+      "id": "WzA2XVcqUN4",
+      "name": "thiru",
+      "email": "thiru@gmail.com",
+      "password": "4567",
+      "avatar": "T",
+      "joinedDate": "2026-05-14"
+    },
+    {
+      "id": "3ncJLWY0-og",
+      "name": "gaya",
+      "email": "gaya@123",
+      "password": "2345",
+      "avatar": "G",
+      "joinedDate": "2026-05-14"
+    },
+    {
+      "id": "uwMgxg90p68",
+      "name": "gayu",
+      "email": "gayu12@gmail.com",
+      "password": "1235",
+      "avatar": "G",
+      "joinedDate": "2026-05-14"
+    },
+    {
+      "id": "8odviwPyc30",
+      "name": "Vinoth",
+      "email": "vinoth12@gmail.com",
+      "password": "1235",
+      "avatar": "V",
+      "joinedDate": "2026-05-15"
+    }
+  ],
+  "recipes": [
+    {
+      "title": "mango tokku",
+      "description": "it is most delicious food and tasty food ",
+      "image": "https://i.pinimg.com/736x/1e/f0/92/1ef0920361f7d487459a9ede48c40f28.jpg",
+      "category": "Indian",
+      "difficulty": "Easy",
+      "cookTime": "20",
+      "servings": "5",
+      "tags": "veg",
+      "ingredients": [
+        "mango",
+        "oil",
+        "chilli",
+        "salt",
+        "jaggery"
+      ],
+      "instructions": [
+        "on stove",
+        "slice the mangos and dry it"
+      ],
+      "id": "PnkWfdb0ePE"
+    },
+    {
+      "title": "Mutton Biryani",
+      "description": "Deliciously aromatic, slow-cooked layers of tender mutton and premium basmati rice infused with authentic Indian spices.",
+      "image": "https://i.pinimg.com/736x/a8/45/7c/a8457c3dc609efeef3b9715c50e9c2cc.jpg",
+      "category": "Indian",
+      "difficulty": "Hard",
+      "cookTime": "60",
+      "servings": "3",
+      "tags": "non-veg",
+      "ingredients": [
+        "Mutton (Goat Meat): 1 kg (bone-in, cut into medium pieces)",
+        "Yogurt (Dahi): 1 cup (whisked)",
+        "Ginger-Garlic Paste: 2 tablespoons",
+        "Red Chili Powder: 1.5 tablespoons",
+        "Turmeric Powder:1 teaspoon"
+      ],
+      "instructions": [
+        "Clean and wash the mutton pieces thoroughly. Pat them dry.",
+        "In a large mixing bowl, combine the mutton with yogurt, ginger-garlic paste, red chili powder, turmeric, garam masala, lemon juice, salt, and half of the fried onions (birista).",
+        "Mix well, massaging the spices into the meat. Cover and refrigerate for at least 2 hours (overnight is best for maximum tenderness)."
+      ],
+      "id": "MSnFodueOSQ"
+    },
+    {
+      "title": "Pizza",
+      "description": "Margherita Pizza is a traditional Italian pizza made with fresh tomato sauce, mozzarella cheese, and basil leaves. It is one of the most famous Italian dishes and is loved for its simple ingredients and delicious taste.",
+      "image": "https://i.pinimg.com/736x/df/11/13/df11137f7ea78702571c15bccc691eb6.jpg",
+      "category": "Italian",
+      "difficulty": "Medium",
+      "cookTime": "15",
+      "servings": "1",
+      "tags": "non-veg",
+      "ingredients": [
+        "2 pizza bases",
+        "1 cup tomato sauce",
+        "Fresh basil leaves",
+        "2 tablespoons olive oil",
+        "1 teaspoon oregano",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Preheat the oven to 220°C.",
+        "Spread tomato sauce evenly on the pizza base.",
+        "Add mozzarella cheese on top.",
+        "Sprinkle oregano and salt.",
+        "Bake for 12–15 minutes until the cheese melts.",
+        "Add fresh basil leaves and olive oil before serving."
+      ],
+      "id": "EWDWLdYQXVE"
+    },
+    {
+      "title": "fast food",
+      "description": "Chicken Burger is one of the most popular fast food dishes loved by people of all ages. It is made with crispy chicken patties, fresh vegetables, cheese, and flavorful sauces inside soft burger buns.",
+      "image": "https://i.pinimg.com/736x/57/42/ca/5742ca06a0ee8a1cfe916983d6f021c4.jpg",
+      "category": "Fast Food",
+      "difficulty": "Easy",
+      "cookTime": "15",
+      "servings": "2",
+      "tags": "non-veg",
+      "ingredients": [
+        "2 burger buns",
+        "2 chicken patties"
+      ],
+      "instructions": [
+        "Heat the pan and cook the chicken patties until golden brown.",
+        "Toast the burger buns with butter."
+      ],
+      "id": "m6Yc7hJih9c"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
