@@ -28,12 +28,12 @@ If you are developing a production application, we recommend using TypeScript wi
 <img width="1366" height="768" alt="Screenshot (216)" src="https://github.com/user-attachments/assets/29ff327e-f9c6-492d-8dfb-68259e3f255d" />
 <img width="1366" height="768" alt="Screenshot (217)" src="https://github.com/user-attachments/assets/9d0437af-e8f3-4c7c-b37a-d4a0469d1c7e" />
 <img width="1366" height="768" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/5fae2ae7-7b0a-4696-9b35-8f6a5b9fcd0a" />
-<img width="1366" height="768" alt="Screenshot (219)" src="https://github.com/user-attachments/assets/d75cc13b-c85b-4bc3-b831-b0cdb00668c6" />
 <img width="1366" height="768" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/f1e76716-59d5-4624-ab87-29c2bae20614" />
 
 <img width="1366" height="768" alt="Screenshot (221)" src="https://github.com/user-attachments/assets/81abc790-7d3f-48e4-b695-4882ccb288d8" />
 <img width="1366" height="768" alt="Screenshot (222)" src="https://github.com/user-attachments/assets/c72bf91d-9153-46cd-9245-a4eaa40c94af" />
 <img width="1366" height="768" alt="Screenshot (223)" src="https://github.com/user-attachments/assets/fe271bba-9dda-4cf2-9edc-80fc87bc1991" /><img width="1366" height="768" alt="Screenshot (224)" src="https://github.com/user-attachments/assets/a80ae6aa-8271-4bf7-b140-c2a714933504" />
+<img width="1366" height="768" alt="Screenshot (219)" src="https://github.com/user-attachments/assets/d75cc13b-c85b-4bc3-b831-b0cdb00668c6" />
 
 
 
